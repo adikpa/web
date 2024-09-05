@@ -1,0 +1,7 @@
+{
+ "ads":[
+            { "picurl":"https://picsum.photos/300", "shopurl":"https://www.google.com/", "text":"The bro above is 350px wide. The total width of this element is also 350px. The total height <br>of this element is 80px.<br>sfdsdsdf<br>fdsfdfsf" },
+            { "picurl":"https://picsum.photos/300", "shopurl":"https://www.google.com/", "text":"<b>Ini Adalah Tajuk</b><br>pengenalan intro brg<br><mark><b>-Harga Barg-</b></mark><br><em>🧚‍♂️ totalSold</em><br><ins>👇Klik Gambar👇</ins>" }
+            
+        ]
+}
