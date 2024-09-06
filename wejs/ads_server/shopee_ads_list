@@ -2,6 +2,7 @@
  "ads":[
             { "picurl":"https://picsum.photos/300", "shopurl":"https://www.google.com/", "text":"The bro above is 350px wide. The total width of this element is also 350px. The total height <br>of this element is 80px.<br>sfdsdsdf<br>fdsfdfsf" },
             { "picurl":"https://d2opxh93rbxzdn.cloudfront.net/original/2X/4/40cfa8ca1f24ac29cfebcb1460b5cafb213b6105.png", "shopurl":"https://yandex.com/images/", "text":"<b>Ini Adalah Tajuk</b><br>pengenalan intro brg<br><mark><b>-Harga Barg-</b></mark><br><em>🧚‍♂️ totalSold</em><br><ins>👇Klik Gambar👇</ins>" }
-            
+            ,{ "picurl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfVW13X3OgCVZq4Y5Jt6na2-X1L_kkTcWzg7LlM42A4SNyIAiCaueT0Ult67eipcH3Ekt6zrHU6-I0itstUIRm3NLAM5vNCwFcTCSlsDbpS7MdFXNhRs-f6bKUQojQly-k9UPA2K773bx-RJYWPg8IoHP9JlARExEo-HbLeNRLEaFZnYZ6mDZeuq-uQGG/s950/photo_2024-08-21_02-14-15.jpg", "shopurl":"https://my.shp.ee/zheed76?smtt=0.0.9", "text":"<b>【10Y Warranty】</b><br>UFO Solar Light Lampu Solar jalan Solar light outdoor lighting 9000W Spotlight LED Light Waterproof IP 67<br><mark><b>RM74.90</b></mark><br><em>🧚‍ </em><br><ins>👇Klik Gambar👇</ins>" }
+
         ]
 }
