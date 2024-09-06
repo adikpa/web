@@ -1,6 +1,7 @@
 {
  "ads":[
             { "picurl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfVW13X3OgCVZq4Y5Jt6na2-X1L_kkTcWzg7LlM42A4SNyIAiCaueT0Ult67eipcH3Ekt6zrHU6-I0itstUIRm3NLAM5vNCwFcTCSlsDbpS7MdFXNhRs-f6bKUQojQly-k9UPA2K773bx-RJYWPg8IoHP9JlARExEo-HbLeNRLEaFZnYZ6mDZeuq-uQGG/s950/photo_2024-08-21_02-14-15.jpg", "shopurl":"https://my.shp.ee/zheed76?smtt=0.0.9", "text":"<b>【10Y Warranty】</b><br>UFO Solar Light Lampu Solar jalan Solar light outdoor lighting 9000W Spotlight LED Light Waterproof IP 67<br><mark><b>RM74.90</b></mark><br><em>🧚‍ </em><br><ins>👇Klik Gambar👇</ins>" }
+,{ "picurl":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWht9Hy2Ii9K_Qr9-sBoE8wnWzZgpU1PbxpZ2GxCrmDjZSLGiqOsJ9AoefYLRPIK8G8C_n5CpdPjbw-RROwwO7ZrS86EZSzQPKyEs3ZYxxZtnpvI_Iub0ArmJACLpSkzWFlKibeRs9H2MoE1Pk3uw5DGlvvx7XMnVgbJFvy9PGJ_ltrquviDZ2riNnlOu7/s950/photo_2024-08-25_21-05-16.jpg", "shopurl":"https://my.shp.ee/nyol43j?smtt=0.0.9", "text":"<b>Perodua Magnetic Sunshade</b><br>ATIVA AXIA BEZZA ARUZ VIVA KANCIL KENARI KELISA MYVI ALZA MYVI ICON WITH CLIP at 19% off!<br><mark><b>RM20.98</b></mark><br><br><ins>👇Get it on Shopee now!👇</ins>" }
 
         ]
 }
